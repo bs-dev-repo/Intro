@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Baibhav Singh
-- 👀 I’m interested in iOS app development...
+- 👀 
 - 📫 How to reach me ibaibhavSingh@gmail.com
 
 <!---
